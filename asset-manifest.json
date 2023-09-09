@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Crypto-Dashboard/static/js/main.a5ac4914.js",
+    "static/media/btc.png": "/Crypto-Dashboard/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/Crypto-Dashboard/index.html",
+    "main.a5ac4914.js.map": "/Crypto-Dashboard/static/js/main.a5ac4914.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a5ac4914.js"
+  ]
+}
